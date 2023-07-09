@@ -70,3 +70,7 @@ We performed various calculations with the data inorder to have a meaningful out
 - The real estate will advise sellers to renovate their properties before putting them in the market as it will increase the relative price of the property.
 - The real estate agency would advise buyers of properties on the market depending on the budget of the buyers the factors that affect price of a property hence be able to effectively deliver their best services to the buyers. For Example: If a buyer wants to buy a property on the waterfront the real estate agency would a advise the client that a property on the waterfront will likely to have a higher price than that which is not located at the waterfront. This will be applied widely depending on what the client wants or doesnt want.
 - The real estate will advise contractors and clients on how different types of properties perform in the real estate market hence one can select a property type which is likely to be more profitable in the market as real estate is all about profit margins. For example the agency might suggest to the contractor/client to build a higher grade_level property such as a mansion and also near the waterfront as these will boost the price of the property hence making it more profitable.
+
+## Non Technical Presentation
+
+[Google Slides](https://docs.google.com/presentation/d/18gQ9uZVo_NLe0KdGMemzYkbL-HBMtzh9v0jHBvrA-QQ/edit#slide=id.g25842cb23ad_0_225)
